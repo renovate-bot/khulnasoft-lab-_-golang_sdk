@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20240520213426-d989e5f20024
 	github.com/khulnasoft-lab/golang_sdk/utils v0.0.0-20240606060842-fae368ff2239
-	github.com/rs/zerolog v1.33.0
+	github.com/rs/zerolog v1.34.0
 )
 
 require (
